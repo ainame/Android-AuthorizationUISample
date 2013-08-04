@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="walkthrough_title">!!!</string>
+    <string name="walkthrough_confirm_button_label">OK??</string>
+    <string name="sign_in_submit_button_label">Sign In</string>    
+</resources>
